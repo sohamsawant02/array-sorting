@@ -22,5 +22,5 @@ class Solution:
                 
 
 t=Solution()
-num=[2,1,1]
+num=[1,2,1]
 t.singleNonDuplicate(num)
